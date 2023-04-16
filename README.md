@@ -1,5 +1,5 @@
 # Hedef-sistemden-dosya-cekmek
-Kurban sistemden dosya cekme
+Hedef sistemden dosya cekmek
 
 Bilgilendirme: Bu program eğitim amaçlıdır lütfen kötüye kullanmayınız kötüye kullanımından çıkacak sorunlardan sadece programı kullanan kişi sorumludur.
 
